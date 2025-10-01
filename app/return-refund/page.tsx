@@ -11,7 +11,7 @@ export default function ReturnRefundPage() {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12">
             <h1 className="text-4xl font-bold text-foreground mb-4">Return & Refund Policy</h1>
-            <p className="text-lg text-muted-foreground">Call (888) 929-0045 (Toll-Free) To Talk With Our Mechanic</p>
+            <p className="text-lg text-muted-foreground">Call (888) 508-6192 (Toll-Free) To Talk With Our Mechanic</p>
           </div>
 
           <div className="space-y-8">
@@ -19,7 +19,7 @@ export default function ReturnRefundPage() {
               <h3 className="text-lg font-semibold text-red-800 mb-2">Important Notice</h3>
               <p className="text-red-700">
                 For billing, claim, or refund related issues, please contact our billing department directly. Our sales
-                executives at the toll-free number (888) 929-0045 may not be able to resolve billing-related matters.
+                executives at the toll-free number (888) 508-6192 may not be able to resolve billing-related matters.
                 For any billing, claim, or refund issues, please call our billing department.
               </p>
             </div>
@@ -171,10 +171,10 @@ export default function ReturnRefundPage() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
-                  href="tel:8889290045"
+                  href="tel:8885086192"
                   className="inline-flex items-center px-6 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-primary/90 transition-colors"
                 >
-                  Call (888) 929-0045
+                  Call (888) 508-6192
                 </a>
                 <a
                   href="mailto:support@arcautopart.com"

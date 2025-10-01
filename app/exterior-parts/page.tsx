@@ -29,8 +29,8 @@ export default function ExteriorPartsPage() {
             </h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto text-pretty">
               Call{" "}
-              <a href="tel:+18889290045" className="text-primary font-semibold hover:underline">
-                +1(888) 929-0045
+              <a href="tel:+18885086192" className="text-primary font-semibold hover:underline">
+                +1(888) 508-6192
               </a>{" "}
               (Toll-Free) To Talk With Our Mechanic
             </p>

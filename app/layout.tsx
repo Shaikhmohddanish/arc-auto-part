@@ -6,7 +6,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'ARC Auto Part - Used Auto Parts & Salvage Yard',
-  description: 'Find quality used auto parts at ARC Auto Part. We offer engines, transmissions, headlights and more with nationwide shipping. Call (888) 929-0045.',
+  description: 'Find quality used auto parts at ARC Auto Part. We offer engines, transmissions, headlights and more with nationwide shipping. Call (888) 508-6192.',
   generator: 'ARC Auto Part',
 }
 

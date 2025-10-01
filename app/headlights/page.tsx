@@ -43,8 +43,8 @@ export default function HeadlightsPage() {
             <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4 text-balance">Used OEM Headlights</h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto text-pretty">
               Call{" "}
-              <a href="tel:+18889290045" className="text-primary font-semibold hover:underline">
-                +1(888) 929-0045
+              <a href="tel:+18885086192" className="text-primary font-semibold hover:underline">
+                +1(888) 508-6192
               </a>{" "}
               (Toll-Free) To Talk With Our Mechanic
             </p>
@@ -303,7 +303,7 @@ export default function HeadlightsPage() {
                   <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
                     <Button size="lg" className="flex items-center gap-2">
                       <Phone className="w-4 h-4" />
-                      <a href="tel:+18889290045">+1(888) 929-0045</a>
+                      <a href="tel:+18885086192">+1(888) 508-6192</a>
                     </Button>
                     <Button variant="outline" size="lg" className="flex items-center gap-2 bg-transparent">
                       <Mail className="w-4 h-4" />

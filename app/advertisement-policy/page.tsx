@@ -11,7 +11,7 @@ export default function AdvertisementPolicyPage() {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12">
             <h1 className="text-4xl font-bold text-foreground mb-4">Advertisement Policy</h1>
-            <p className="text-lg text-muted-foreground">Call (888) 929-0045 (Toll-Free) To Talk With Our Mechanic</p>
+            <p className="text-lg text-muted-foreground">Call (888) 508-6192 (Toll-Free) To Talk With Our Mechanic</p>
           </div>
 
           <div className="prose prose-lg max-w-none">
@@ -111,7 +111,7 @@ export default function AdvertisementPolicyPage() {
                 </p>
                 <div className="p-4 bg-muted rounded-lg">
                   <p className="text-foreground font-semibold">ARC Auto Part</p>
-                  <p className="text-muted-foreground">Phone: (888) 929-0045</p>
+                  <p className="text-muted-foreground">Phone: (888) 508-6192</p>
                   <p className="text-muted-foreground">Email: support@arcautopart.com</p>
                 </div>
               </section>
