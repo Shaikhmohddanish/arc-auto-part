@@ -85,7 +85,7 @@ export default function FAQPage() {
                 Our expert mechanics are here to help you find the right parts for your vehicle.
               </p>
               <a
-                href="tel:8889290045"
+                href="tel:8885086192"
                 className="inline-flex items-center px-6 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-primary/90 transition-colors"
               >
                 Call (888) 929-0045

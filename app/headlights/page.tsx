@@ -132,7 +132,7 @@ export default function HeadlightsPage() {
 
               <p className="text-lg text-muted-foreground mb-8">
                 Fill out our free online headlight quote or call one of our Headlight Expert Representatives @
-                <a href="tel:+18889290045" className="text-primary font-semibold hover:underline">
+                <a href="tel:+18885086192" className="text-primary font-semibold hover:underline">
                   {" "}
                   +1(888) 929-0045
                 </a>{" "}
