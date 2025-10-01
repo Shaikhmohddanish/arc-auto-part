@@ -11,7 +11,7 @@ export default function WarrantyClaimPage() {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12">
             <h1 className="text-4xl font-bold text-foreground mb-4">Warranty & Claim</h1>
-            <p className="text-lg text-muted-foreground">Call (888) 929-0045 (Toll-Free) To Talk With Our Mechanic</p>
+            <p className="text-lg text-muted-foreground">Call (888) 508-6192 (Toll-Free) To Talk With Our Mechanic</p>
           </div>
 
           <div className="space-y-8">
@@ -71,7 +71,7 @@ export default function WarrantyClaimPage() {
                   <p className="text-muted-foreground leading-relaxed">
                     After returning your order, the refund policy would vary according to your mode of payment. You will
                     find a brief of the payment method on your product receipt. You can keep a check on your refund
-                    status by contacting our billing department at (888) 929-0045.
+                    status by contacting our billing department at (888) 508-6192.
                   </p>
                   <p className="text-sm text-muted-foreground mt-2 italic">
                     Note: Every bit of this information is related to the products bought and delivered by ARC Auto
@@ -130,7 +130,7 @@ export default function WarrantyClaimPage() {
                   href="tel:8885086192"
                   className="inline-flex items-center px-6 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-primary/90 transition-colors"
                 >
-                  Call (888) 929-0045
+                  Call (888) 508-6192
                 </a>
                 <a
                   href="mailto:support@arcautopart.com"

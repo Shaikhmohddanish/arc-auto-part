@@ -42,7 +42,7 @@ export default function TransmissionPage() {
             <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto text-pretty">
               Call{" "}
               <a href="tel:+18885086192" className="text-black font-semibold hover:underline">
-                +1(888) 929-0045
+                +1(888) 508-6192
               </a>{" "}
               (Toll-Free) To Talk With Our Mechanic
             </p>
@@ -131,7 +131,7 @@ export default function TransmissionPage() {
               <p className="text-lg text-muted-foreground mb-8">
                 Fill out our free online engine quote or call one of our Engine/Transmission Expert Representatives @{" "}
                 <a href="tel:+18885086192" className="text-primary font-semibold hover:underline">
-                  +1(888) 929-0045
+                  +1(888) 508-6192
                 </a>{" "}
                 to help you determine what type of engine will work with your vehicle's year, make, and model.
               </p>
@@ -301,7 +301,7 @@ export default function TransmissionPage() {
                   <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
                     <Button size="lg" className="flex items-center gap-2">
                       <Phone className="w-4 h-4" />
-                      <a href="tel:+18885086192">+1(888) 929-0045</a>
+                      <a href="tel:+18885086192">+1(888) 508-6192</a>
                     </Button>
                     <Button variant="outline" size="lg" className="flex items-center gap-2 bg-transparent">
                       <Mail className="w-4 h-4" />

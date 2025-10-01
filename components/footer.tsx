@@ -23,7 +23,7 @@ export function Footer() {
                 <div className="w-12 h-12 bg-black rounded-full flex items-center justify-center">
                   <Phone className="h-6 w-6 text-white" />
                 </div>
-                <span className="text-2xl font-bold">(888) 929-0045</span>
+                <span className="text-2xl font-bold">(888) 508-6192</span>
               </div>
             </div>
 
@@ -147,7 +147,7 @@ export function Footer() {
               <div className="space-y-2 text-sm text-gray-700">
                 <p>ARC Auto Part LLC</p>
                 <p>arcautopart.com</p>
-                <p>(888) 929-0045</p>
+                <p>(888) 508-6192</p>
                 <p>support@arcautopart.com</p>
               </div>
             </div>
@@ -165,7 +165,7 @@ export function Footer() {
         <div className="container mx-auto px-4 text-center">
           <div className="flex items-center justify-center gap-2">
             <Phone className="h-5 w-5" />
-            <span className="font-semibold">CALL TOLL FREE NO. (888) 929-0045</span>
+            <span className="font-semibold">CALL TOLL FREE NO. (888) 508-6192</span>
           </div>
         </div>
       </div>

@@ -17,7 +17,7 @@ export function Header() {
           <div className="flex items-center gap-6">
             <div className="flex items-center gap-2">
               <Phone className="h-4 w-4" />
-              <span>(888) 929-0045</span>
+              <span>(888) 508-6192</span>
             </div>
             <div className="flex items-center gap-2">
               <Mail className="h-4 w-4" />

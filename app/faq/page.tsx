@@ -52,7 +52,7 @@ export default function FAQPage() {
     {
       question: "Return available",
       answer:
-        "In case if you are not satisfied with the used auto part you can easily return it. It's very simple, if you do not like what you ordered, or maybe it is not the part that you needed you can easily send it back. If you have any questions just get in touch with us through our toll-free number (888) 929-0045.",
+        "In case if you are not satisfied with the used auto part you can easily return it. It's very simple, if you do not like what you ordered, or maybe it is not the part that you needed you can easily send it back. If you have any questions just get in touch with us through our toll-free number (888) 508-6192.",
     },
   ]
 
@@ -64,7 +64,7 @@ export default function FAQPage() {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12">
             <h1 className="text-4xl font-bold text-foreground mb-4">Frequently Asked Questions</h1>
-            <p className="text-lg text-muted-foreground">Call (888) 929-0045 (Toll-Free) To Talk With Our Mechanic</p>
+            <p className="text-lg text-muted-foreground">Call (888) 508-6192 (Toll-Free) To Talk With Our Mechanic</p>
           </div>
 
           <div className="space-y-8">
@@ -88,7 +88,7 @@ export default function FAQPage() {
                 href="tel:8885086192"
                 className="inline-flex items-center px-6 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-primary/90 transition-colors"
               >
-                Call (888) 929-0045
+                Call (888) 508-6192
               </a>
             </div>
           </div>

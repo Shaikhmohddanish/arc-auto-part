@@ -134,7 +134,7 @@ export default function HeadlightsPage() {
                 Fill out our free online headlight quote or call one of our Headlight Expert Representatives @
                 <a href="tel:+18885086192" className="text-primary font-semibold hover:underline">
                   {" "}
-                  +1(888) 929-0045
+                  +1(888) 508-6192
                 </a>{" "}
                 to help you determine what type of headlight will work with your vehicle's year, make, and model.
               </p>
